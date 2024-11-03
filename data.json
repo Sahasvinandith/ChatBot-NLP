@@ -1,0 +1,38 @@
+{
+    "goods_shelves" : {
+        "milk": 1,
+        "bread": 2,
+        "egg": 3,
+        "cheese": 4,
+        "apple": 5,
+        "banana": 6
+    },
+    "goods_prize" : {
+        "milk": {
+            "size": "400ml",
+            "kotmale": 200,
+            "highland": 400
+        },
+        "bread": {
+            "size": "450g",
+            "maliban":150
+        },
+        "egg": {
+            "size": "egg",
+            "free load":400
+        },
+        "cheese": {
+            "size": "200g",
+            "blue cheese":1200
+        },
+        "apple": {
+            "size": "apple",
+            "Red apple": 130,
+            "Green apple": 150
+        },
+        "banana": {
+            "size": "100 g",
+            "Kolikuttu": 100
+        }
+    }
+}
